@@ -1,5 +1,5 @@
 # IMDb Data Scraper
-<img align="right" width="100" height="100" src="C:\Users\Anand\Downloads\pngwing.com.png">
+<img align="right" width="150" height="100" src="https://github.com/kumarAnand05/IMDb-Data-Scraper/assets/111251492/538f26cf-6cac-42bd-bc1a-81ad72473749">
 By Anand Kumar
 
 
